@@ -1,7 +1,7 @@
 # Overview
 
 
-NTCIR14 QALab-PoliInfo Formal Run は，2018年11月下旬から12月上旬にかけて開催されました．
+[NTCIR14 QALab-PoliInfo](https://poliinfo.github.io) Formal Run は，2018年11月下旬から12月上旬にかけて開催されました．
 ここでは、Formal Run で使用したデータセットを公開します。
 
 
